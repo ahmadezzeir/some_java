@@ -12,7 +12,7 @@ public class hellotest {
 
     @Test
     public void testWillAlwaysFail() {
-        fail("This is An Error from ahmad");
+        fail("This is An Error from ahmad ezzeir");
     }
 
 
